@@ -1,0 +1,16 @@
+5 6 7 ^ ^ 5 6 7 ^ ^ Error: too many operands ()
+Error: too many operands ()
+Error: too many operands ()
+4 2 / 3 2 ^ ^ 9 3 2 -  / +
+Error: too many operands ()
+Error: no closing parenthesis detected, uneven parenthesis amount )
+Error: no closing parenthesis detected, uneven parenthesis amount )
+12 23 4 3 7 11 2 ^ / - ^ * 25 % 9 3 + +
+Error: too many operands ()
+Error: no subexpression detected (empty parenthesis) ()
+Error: no subexpression detected (empty parenthesis) ()
+Error: too many operators in infix expression (/)
+Error: too many operators in infix expression (^)
+Error: too many operators in infix expression (/)
+Error: too many operands (2)
+Error: too many operands ()
